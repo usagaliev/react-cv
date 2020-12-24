@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/react-cv/static/css/main.506a8f93.chunk.css",
+    "main.js": "/react-cv/static/js/main.42577abf.chunk.js",
+    "main.js.map": "/react-cv/static/js/main.42577abf.chunk.js.map",
+    "runtime-main.js": "/react-cv/static/js/runtime-main.c7010799.js",
+    "runtime-main.js.map": "/react-cv/static/js/runtime-main.c7010799.js.map",
+    "static/css/2.62a3729f.chunk.css": "/react-cv/static/css/2.62a3729f.chunk.css",
+    "static/js/2.9a7510d0.chunk.js": "/react-cv/static/js/2.9a7510d0.chunk.js",
+    "static/js/2.9a7510d0.chunk.js.map": "/react-cv/static/js/2.9a7510d0.chunk.js.map",
+    "static/js/3.65a92c9b.chunk.js": "/react-cv/static/js/3.65a92c9b.chunk.js",
+    "static/js/3.65a92c9b.chunk.js.map": "/react-cv/static/js/3.65a92c9b.chunk.js.map",
+    "index.html": "/react-cv/index.html",
+    "static/css/2.62a3729f.chunk.css.map": "/react-cv/static/css/2.62a3729f.chunk.css.map",
+    "static/css/main.506a8f93.chunk.css.map": "/react-cv/static/css/main.506a8f93.chunk.css.map",
+    "static/js/2.9a7510d0.chunk.js.LICENSE.txt": "/react-cv/static/js/2.9a7510d0.chunk.js.LICENSE.txt",
+    "static/media/1 (1).fe10da04.jpg": "/react-cv/static/media/1 (1).fe10da04.jpg",
+    "static/media/1.9a36104a.jpg": "/react-cv/static/media/1.9a36104a.jpg",
+    "static/media/2.4ba22349.jpg": "/react-cv/static/media/2.4ba22349.jpg",
+    "static/media/Journalism.module.css": "/react-cv/static/media/Citizen-Journalist.f6aa6bd9.jpg",
+    "static/media/AboutMe.module.css": "/react-cv/static/media/Software.0f8f8613.jpg",
+    "static/media/Navbar.css": "/react-cv/static/media/sea2.90065cbd.gif",
+    "static/media/js1.587d71a2.png": "/react-cv/static/media/js1.587d71a2.png",
+    "static/media/js2.432e2962.png": "/react-cv/static/media/js2.432e2962.png",
+    "static/media/js3.6181dbfb.png": "/react-cv/static/media/js3.6181dbfb.png",
+    "static/media/me.cad7f7ed.png": "/react-cv/static/media/me.cad7f7ed.png",
+    "static/media/scr1.5b172a48.png": "/react-cv/static/media/scr1.5b172a48.png",
+    "static/media/scrn1.b25327a4.png": "/react-cv/static/media/scrn1.b25327a4.png",
+    "static/media/scrn2.8c19e5a3.png": "/react-cv/static/media/scrn2.8c19e5a3.png",
+    "static/media/scrn3.90883347.png": "/react-cv/static/media/scrn3.90883347.png",
+    "static/media/scrn4.885dd061.png": "/react-cv/static/media/scrn4.885dd061.png",
+    "static/media/slick-theme.css": "/react-cv/static/media/slick.c94f7671.ttf",
+    "static/media/Profile.module.css": "/react-cv/static/media/wex2.e199f40f.jpg",
+    "static/media/Wordpress.module.css": "/react-cv/static/media/wp.d39030ed.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c7010799.js",
+    "static/css/2.62a3729f.chunk.css",
+    "static/js/2.9a7510d0.chunk.js",
+    "static/css/main.506a8f93.chunk.css",
+    "static/js/main.42577abf.chunk.js"
+  ]
+}
